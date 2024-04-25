@@ -1,0 +1,3 @@
+/Users/victorenogwe/Documents/CSU GLOBAL/CSC 450/Module Two/Critical Thinking/cmake-build-debug/CMakeFiles/Critical_Thinking.dir
+/Users/victorenogwe/Documents/CSU GLOBAL/CSC 450/Module Two/Critical Thinking/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/victorenogwe/Documents/CSU GLOBAL/CSC 450/Module Two/Critical Thinking/cmake-build-debug/CMakeFiles/rebuild_cache.dir

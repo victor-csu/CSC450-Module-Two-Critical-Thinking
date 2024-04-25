@@ -1,0 +1,22 @@
+PROGRAM User String Input Collector
+-	This program collects two string user inputs(thrice) from a user, concatenates them and displays the concatenation.
+
+BEGIN
+    BEGIN
+        create a main.cpp file.
+
+        declare a "str_tolower" function that takes a string and returns the lowercase version. Make sure the initial string is not mutated.
+        declare a "str_trim" function that takes a string and returns the string with white space removed from both ends. Make sure the initial string is not mutated.
+        declare a "get_string_input" function that prompts a user to enter a string and returns the string.
+                The function takes two arguments: a string "instruction" to tell the user what to enter, and an integer "max_length" to restrict the input length.
+                Use the "str_trim" function to trim the string before return.
+                Validate the input string against the maximum length parameter.
+                Ensure that the trimmed input is not empty.
+        declare a "get_two_string_input" function that uses the "get_string_input" function to collect user input twice.
+                The function should take a "max_length" parameter to limit the allowable max input length.
+    END
+
+    declare a main function to run the program.
+    inside the main function using the "get_two_string_input" function, collect the user input thrice.
+    Print out each collected input.
+END
